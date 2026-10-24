@@ -69,6 +69,7 @@
 - [Rokid AIUI Log Tool](https://github.com/MersiSun/rokid_aiui_logtool) - 面向 Rokid Glasses AIUI Agent 的日志工具
 - [Rokid AIUI Agent Skill](https://github.com/BreezeLife/rokid-aiui-agent-skill) - 用于生成、验证、预览和打包 AIUI 项目的社区 Skill，含 Focus Timer 示例 [@BreezeLife](https://github.com/BreezeLife)
 - [InkLab](https://github.com/1977744311/inklab) - AIUI 本地调试与测试工作台，支持热重载、多引擎版本并排对比、能力模拟和自动化截图回归测试 [@1977744311](https://github.com/1977744311)
+- [Rokid EverMind Skills](https://github.com/EasonZhu1997/Rokid-EverMind-Skills) - 为 AIUI 应用接入 EverOS 长期记忆的 JavaScript SDK，并提供 Rokid SDK 应用接入 EverMe 的开发 Skill，附中英日三语图文指南。
 
 ## 贡献
 
