@@ -27,22 +27,22 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 
 ## Official Resources
 
-- [Documentation](https://js.rokid.com/AIUI) - Official technical documentation entry for AIUI.
-- [Documentation - Quick Start](https://js.rokid.com/AIUI/guide/quickstart/quickstart?version=latest) - Official guide for getting started quickly.
+- [Documentation](https://open.rokid.com/aiui?lang=en-US) - Official technical documentation entry for AIUI.
+- [Documentation - Quick Start](https://open.rokid.com/aiui/guide/quickstart/quickstart?lang=en-US) - Official guide for getting started quickly.
 - [Design Guidelines](https://custom.rokid.com/prod/rokid_web/57e35cd3ae294d16b1b8fc8dcbb1b7c7/pc/cn/5a71b66dbc1e4689886c7aa437299f2b.html) - Design recommendations and guidelines for Rokid Glasses experiences.
 - [Rokid Academy Courses](https://t.rokid.com/n2w8u2o) - Courses and learning materials related to AIUI.
 - [AIUI Studio](https://aiui-global.rokid.com/) - Official development platform for AIUI.
 
 ## Project Resources
 
-- [GitHub](https://github.com/jsar-project/AIUI) - Main open-source repository for AIUI.
-- [Gitee](https://gitee.com/jsar-project/AIUI) - Domestic mirror repository for AIUI.
-- [Skill](https://github.com/jsar-project/AIUI/tree/main/skills/aiui-dev) - Skill definitions and development support for AIUI.
-- [Samples](https://github.com/jsar-project/AIUI/tree/main/samples) - Sample projects and demo code.
+- [GitHub](https://github.com/yodaos-project/AIUI) - Main open-source repository for AIUI.
+- [Gitee](https://gitee.com/yodaos-project/AIUI) - Domestic mirror repository for AIUI.
+- [Skill](https://github.com/yodaos-project/AIUI/tree/main/skills/aiui-dev) - Skill definitions and development support for AIUI.
+- [Samples](https://github.com/yodaos-project/AIUI/tree/main/samples) - Sample projects and demo code.
 
 ## CLI Tools
 
-- [aix](https://github.com/jsar-project/aix) - One of the CLI tools in the AIUI ecosystem.
+- [aix](https://github.com/yodaos-project/aix) - One of the CLI tools in the AIUI ecosystem.
 
 ## Articles
 
@@ -54,14 +54,20 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 ### Open-Source Projects
 
 - [AIUI Sports Agents](https://github.com/EasonZhu1997/AIUI-Sports-Agents) - Run, Bike and Rower AIUI source monorepo. By [@EasonZhu1997](https://github.com/EasonZhu1997)
+- [prism-aiui](https://github.com/prism-rokid/prism-aiui) - Rokid Glasses AIUI panel for Prism to view and control remote AI coding agent sessions hands-free. By [@Eis4TY](https://github.com/Eis4TY)
+- [rokid-muse-aiui](https://github.com/Eis4TY/rokid-muse-aiui) - Connects Meta Muse to Rokid glasses through Muse Gadgets and the Rokid AIUI framework. By [@Eis4TY](https://github.com/Eis4TY)
+- [photodelaiuiagent](https://github.com/osagem/photodelaiuiagent) - Rokid Glasses AIUI agent to browse, play and delete system album media using voice and temple gestures through a local DCIM bridge. By [@osagem](https://github.com/osagem)
+- [AIUI 头控弹珠机](https://github.com/andaoking/aiui-pinball) - 一个为 Rokid AIUI 设备设计的单场景体感弹珠游戏 By [@andaoking](https://github.com/andaoking)
+- [SkyMate](https://github.com/catcatcat23/my-aiui-chat-agent) - SkyMate 是一个面向 Rokid AI Glasses 的观星智能体 By [@catcatcat23](https://github.com/catcatcat23)
+- [历史穿越者](https://github.com/ymanMax/history-timewalker) - 历史知识闯关、时空穿越、历史问答、时光倒流错题重考 By [@ymanMax](https://github.com/ymanMax)
 - [Cube Coach](https://github.com/guiguihui/Rokid_Cube_Copilot) - AIUI Rubik's Cube coach with camera color recognition, local solving, and voice-guided steps. By [@guiguihui](https://github.com/guiguihui)
 - [Kavi](https://github.com/zrg-team/rokid-personal-assistant) - AIUI voice calendar assistant with end-to-end Google Calendar integration via Supabase and Composio. By [@zrg-team](https://github.com/zrg-team)
 - [Claude Bridge Glasses](https://github.com/markossssssss/claude-bridge-glasses) - Published AIUI agent build for managing Claude Code agents from Rokid Glasses; requires a separate computer-side hub. By [@markossssssss](https://github.com/markossssssss)
 
 ### Samples
 
-- [Voice-Interaction Pet Demo](https://github.com/sengmitnick/aiui-asr-pet-demo) - Demonstrates voice naming and system wake-up interactions By [@sengmitnick](https://github.com/sengmitnick)
-- [Gyroscope Test](https://github.com/jsar-project/AIUI/tree/main/samples/gyroscope-test) - Gyroscope test sample for AIUI
+- [Voice-Interaction Pet Demo](https://github.com/sengmitnick/aiui-asr-pet-demo) - Demonstrates voice naming and system wake-up interactions. By [@sengmitnick](https://github.com/sengmitnick)
+- [Gyroscope Test](https://github.com/yodaos-project/AIUI/tree/main/samples/gyroscope-test) - Gyroscope test sample for AIUI
 - [Rokid AIUI Lab](https://github.com/saibozhanzhang/rokid-aiui-lab) - QR scanning AIUI Agent, companion QR creation tool, and on-device capability experiments and notes. By [@saibozhanzhang](https://github.com/saibozhanzhang)
 
 ### Tools
@@ -69,8 +75,8 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 - [DeepSeek Harness Rokid AIUI Toolkit](https://github.com/twinkle10010/dsh-rokid-aiui) - Rokid AIUI development integration for DeepSeek Harness
 - [Rokid AIUI Log Tool](https://github.com/MersiSun/rokid_aiui_logtool) - Log tool for Rokid Glasses AIUI Agent
 - [Rokid AIUI Agent Skill](https://github.com/BreezeLife/rokid-aiui-agent-skill) - Community skill for generating, validating, previewing, and packaging AIUI projects, with a Focus Timer example. By [@BreezeLife](https://github.com/BreezeLife)
+- [Rokid EverMind Skills](https://github.com/EasonZhu1997/Rokid-EverMind-Skills) - JavaScript SDK for integrating EverOS long-term memory into AIUI apps, plus a Rokid SDK skill for EverMe integration and illustrated guides in Chinese, English, and Japanese. By [@EasonZhu1997](https://github.com/EasonZhu1997)
 - [InkLab](https://github.com/1977744311/inklab) - Local AIUI debugging and testing workbench with hot reload, side-by-side engine comparison, capability simulation, and scripted screenshot regression tests. By [@1977744311](https://github.com/1977744311)
-- [Rokid EverMind Skills](https://github.com/EasonZhu1997/Rokid-EverMind-Skills) - JavaScript SDK for integrating EverOS long-term memory into AIUI apps, plus a Rokid SDK skill for EverMe integration and illustrated guides in Chinese, English, and Japanese.
 
 ## Contributing
 
