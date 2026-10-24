@@ -69,6 +69,7 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 - [DeepSeek Harness Rokid AIUI Toolkit](https://github.com/twinkle10010/dsh-rokid-aiui) - Rokid AIUI development integration for DeepSeek Harness
 - [Rokid AIUI Log Tool](https://github.com/MersiSun/rokid_aiui_logtool) - Log tool for Rokid Glasses AIUI Agent
 - [Rokid AIUI Agent Skill](https://github.com/BreezeLife/rokid-aiui-agent-skill) - Community skill for generating, validating, previewing, and packaging AIUI projects, with a Focus Timer example. By [@BreezeLife](https://github.com/BreezeLife)
+- [InkLab](https://github.com/1977744311/inklab) - Local AIUI debugging and testing workbench with hot reload, side-by-side engine comparison, capability simulation, and scripted screenshot regression tests. By [@1977744311](https://github.com/1977744311)
 
 ## Contributing
 

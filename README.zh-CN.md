@@ -68,6 +68,7 @@
 - [DeepSeek Harness Rokid AIUI Toolkit](https://github.com/twinkle10010/dsh-rokid-aiui) - 面向 DeepSeek Harness 的 Rokid AIUI 开发集成方案
 - [Rokid AIUI Log Tool](https://github.com/MersiSun/rokid_aiui_logtool) - 面向 Rokid Glasses AIUI Agent 的日志工具
 - [Rokid AIUI Agent Skill](https://github.com/BreezeLife/rokid-aiui-agent-skill) - 用于生成、验证、预览和打包 AIUI 项目的社区 Skill，含 Focus Timer 示例 [@BreezeLife](https://github.com/BreezeLife)
+- [InkLab](https://github.com/1977744311/inklab) - AIUI 本地调试与测试工作台，支持热重载、多引擎版本并排对比、能力模拟和自动化截图回归测试 [@1977744311](https://github.com/1977744311)
 
 ## 贡献
 
