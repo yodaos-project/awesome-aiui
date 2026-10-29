@@ -72,6 +72,7 @@
 
 ### 工具
 
+- [AIUI MCPKit](https://github.com/yodaos-project/aiui-mcpkit) - 使用 JavaScript 和 AIUI 构建交互式 MCP Apps，打包 AIUI 页面、Ink WebAssembly 渲染器和 MCP 服务器。
 - [DeepSeek Harness Rokid AIUI Toolkit](https://github.com/twinkle10010/dsh-rokid-aiui) - 面向 DeepSeek Harness 的 Rokid AIUI 开发集成方案
 - [Rokid AIUI Log Tool](https://github.com/MersiSun/rokid_aiui_logtool) - 面向 Rokid Glasses AIUI Agent 的日志工具
 - [Rokid AIUI Agent Skill](https://github.com/BreezeLife/rokid-aiui-agent-skill) - 用于生成、验证、预览和打包 AIUI 项目的社区 Skill，含 Focus Timer 示例 [@BreezeLife](https://github.com/BreezeLife)
