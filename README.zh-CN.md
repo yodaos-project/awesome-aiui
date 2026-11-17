@@ -68,6 +68,7 @@
 
 - [Voice-Interaction Pet Demo](https://github.com/sengmitnick/aiui-asr-pet-demo) - 展示语音命名与系统唤醒后的语音交互 [@sengmitnick](https://github.com/sengmitnick)
 - [Gyroscope Test](https://github.com/yodaos-project/AIUI/tree/main/samples/gyroscope-test) - AIUI 的陀螺仪测试示例
+- [3DoF 空间菜单](https://github.com/twinkle10010/aiui-3dof-spatial-menu) - 使用 IMU 四元数、透视投影和 Canvas 2D 绘制固定空间面板的 Rokid AIUI 示例，支持转头浏览和三秒凝视确认 [@twinkle10010](https://github.com/twinkle10010)
 - [Rokid AIUI Lab](https://github.com/saibozhanzhang/rokid-aiui-lab) - 二维码扫描 AIUI Agent、配套二维码创作工具与真机能力实验及笔记 [@saibozhanzhang](https://github.com/saibozhanzhang)
 
 ### 工具
