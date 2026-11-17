@@ -68,6 +68,7 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 
 - [Voice-Interaction Pet Demo](https://github.com/sengmitnick/aiui-asr-pet-demo) - Demonstrates voice naming and system wake-up interactions. By [@sengmitnick](https://github.com/sengmitnick)
 - [Gyroscope Test](https://github.com/yodaos-project/AIUI/tree/main/samples/gyroscope-test) - Gyroscope test sample for AIUI
+- [3DoF Spatial Menu](https://github.com/twinkle10010/aiui-3dof-spatial-menu) - Rokid AIUI sample that uses IMU quaternions and perspective projection to draw fixed spatial panels on Canvas 2D, with head tracking and three-second gaze selection. By [@twinkle10010](https://github.com/twinkle10010)
 - [Rokid AIUI Lab](https://github.com/saibozhanzhang/rokid-aiui-lab) - QR scanning AIUI Agent, companion QR creation tool, and on-device capability experiments and notes. By [@saibozhanzhang](https://github.com/saibozhanzhang)
 
 ### Tools
