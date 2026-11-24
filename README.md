@@ -77,6 +77,7 @@ A curated collection of AIUI-related resources focused on the Rokid AIUI ecosyst
 - [DeepSeek Harness Rokid AIUI Toolkit](https://github.com/twinkle10010/dsh-rokid-aiui) - Rokid AIUI development integration for DeepSeek Harness
 - [Rokid AIUI Log Tool](https://github.com/MersiSun/rokid_aiui_logtool) - Log tool for Rokid Glasses AIUI Agent
 - [Rokid AIUI Agent Skill](https://github.com/BreezeLife/rokid-aiui-agent-skill) - Community skill for generating, validating, previewing, and packaging AIUI projects, with a Focus Timer example. By [@BreezeLife](https://github.com/BreezeLife)
+- [AIUI Immersive 3DoF](https://github.com/EazyLee30/aiui-immersive-3dof) - Agent skill for building world-anchored scenes on Rokid AIUI, with a starter project for head tracking, temple gestures, and CJK pixel text. By [@EazyLee30](https://github.com/EazyLee30)
 - [Rokid EverMind Skills](https://github.com/EasonZhu1997/Rokid-EverMind-Skills) - JavaScript SDK for integrating EverOS long-term memory into AIUI apps, plus a Rokid SDK skill for EverMe integration and illustrated guides in Chinese, English, and Japanese. By [@EasonZhu1997](https://github.com/EasonZhu1997)
 - [InkLab](https://github.com/1977744311/inklab) - Local AIUI debugging and testing workbench with hot reload, side-by-side engine comparison, capability simulation, and scripted screenshot regression tests. By [@1977744311](https://github.com/1977744311)
 
